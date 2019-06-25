@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone = "no" ?>
+<svg width = "150mm" height = "100mm" version = "1.1" xmlns = "http://www.w3.org/2000/svg" >
+<g transform="scale(3.79)">
+<polygon points = "0,15, 4,0, 118,0, 122,15, 118,30, 4,30" style="fill:white; stroke:black; stroke-width:0.5" />
+</g>
+
+<g>
+<line x1="0mm" y1="15mm" x2="122mm" y2="15mm" style="stroke:black; stroke-width:1" />
+</g>
+
+<g>
+<circle cx="19mm" cy="15mm" r="3.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="19mm" y1="15mm" x2="19mm" y2="16.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="19mm" y1="15mm" x2="19mm" y2="13.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="19mm" y1="15mm" x2="20.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="19mm" y1="15mm" x2="17.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="19mm" cy="8mm" r="0.75mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="19mm" y1="8mm" x2="19mm" y2="8.375mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="19mm" y1="8mm" x2="19mm" y2="7.625mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="19mm" y1="8mm" x2="19.375mm" y2="8mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="19mm" y1="8mm" x2="18.625mm" y2="8mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="44mm" cy="15mm" r="3.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="44mm" y1="15mm" x2="44mm" y2="16.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="44mm" y1="15mm" x2="44mm" y2="13.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="44mm" y1="15mm" x2="45.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="44mm" y1="15mm" x2="42.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="36mm" cy="15mm" r="1.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="36mm" y1="15mm" x2="36mm" y2="15.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="36mm" y1="15mm" x2="36mm" y2="14.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="36mm" y1="15mm" x2="36.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="36mm" y1="15mm" x2="35.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="44mm" cy="15mm" r="7mm" style="fill:none; stroke:black; stroke-width:0.5; stroke-dasharray:5,5" />
+</g>
+
+<g>
+<circle cx="74mm" cy="15mm" r="3.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="74mm" y1="15mm" x2="74mm" y2="16.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="74mm" y1="15mm" x2="74mm" y2="13.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="74mm" y1="15mm" x2="75.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="74mm" y1="15mm" x2="72.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="66mm" cy="15mm" r="1.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="66mm" y1="15mm" x2="66mm" y2="15.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="66mm" y1="15mm" x2="66mm" y2="14.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="66mm" y1="15mm" x2="66.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="66mm" y1="15mm" x2="65.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="74mm" cy="15mm" r="7mm" style="fill:none; stroke:black; stroke-width:0.5; stroke-dasharray:5,5" />
+</g>
+
+<g>
+<circle cx="104mm" cy="15mm" r="3.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="104mm" y1="15mm" x2="104mm" y2="16.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="104mm" y1="15mm" x2="104mm" y2="13.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="104mm" y1="15mm" x2="105.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="104mm" y1="15mm" x2="102.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="96mm" cy="15mm" r="1.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="96mm" y1="15mm" x2="96mm" y2="15.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="96mm" y1="15mm" x2="96mm" y2="14.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="96mm" y1="15mm" x2="96.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="96mm" y1="15mm" x2="95.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="104mm" cy="15mm" r="7mm" style="fill:none; stroke:black; stroke-width:0.5; stroke-dasharray:5,5" />
+</g>
+
+<g font-size="10" font-weight="bold" font-family="Microgramma D" >
+<text x="42mm" y="5mm" fill="black" >Potentiometer 7mm, anti-rotation 3mm</text>
+</g>
+
+<g font-size="10" font-weight="bold" font-family="Microgramma D" >
+<text x="12mm" y="27mm" fill="black" >Switch 6mm, anti-rotation 2mm</text>
+</g>
+
+</svg>

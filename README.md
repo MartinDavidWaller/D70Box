@@ -1,6 +1,6 @@
-# RBNSpyBox
+# D70Box
 
-Reverse Beacon Network Spy Box
+D70Box
 
 ## Required Hardware
 
@@ -39,4 +39,6 @@ The Delay and Speed setting may seem wrong relative to the knob position. The be
 interface and look for the Delay and Speed setting. Adjust the two control until the values displayed match values on the
 legend. Then adjust the knobs so that the indicator is as close as possible to the legend value. The attained proximity will 
 depend on the potentiometer shaft type, smooth or knurled / serrated etc.
+
+The BFY71 transistor can be substituted with a 2N3019.
 

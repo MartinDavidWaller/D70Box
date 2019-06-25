@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone = "no" ?>
+<svg width = "150mm" height = "100mm" version = "1.1" xmlns = "http://www.w3.org/2000/svg" >
+<g transform="scale(3.79)">
+<polygon points = "0,15, 4,0, 118,0, 122,15, 118,30, 4,30" style="fill:white; stroke:black; stroke-width:0.5" />
+</g>
+
+<g>
+<line x1="0mm" y1="15mm" x2="122mm" y2="15mm" style="stroke:black; stroke-width:1" />
+</g>
+
+<g>
+<circle cx="7mm" cy="4mm" r="2mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="7mm" y1="4mm" x2="7mm" y2="5mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="7mm" y1="4mm" x2="7mm" y2="3mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="7mm" y1="4mm" x2="8mm" y2="4mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="7mm" y1="4mm" x2="6mm" y2="4mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="7mm" cy="26mm" r="2mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="7mm" y1="26mm" x2="7mm" y2="27mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="7mm" y1="26mm" x2="7mm" y2="25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="7mm" y1="26mm" x2="8mm" y2="26mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="7mm" y1="26mm" x2="6mm" y2="26mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="115mm" cy="4mm" r="2mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="115mm" y1="4mm" x2="115mm" y2="5mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="115mm" y1="4mm" x2="115mm" y2="3mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="115mm" y1="4mm" x2="116mm" y2="4mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="115mm" y1="4mm" x2="114mm" y2="4mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="115mm" cy="26mm" r="2mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="115mm" y1="26mm" x2="115mm" y2="27mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="115mm" y1="26mm" x2="115mm" y2="25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="115mm" y1="26mm" x2="116mm" y2="26mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="115mm" y1="26mm" x2="114mm" y2="26mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="26mm" cy="15mm" r="2.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="26mm" y1="15mm" x2="26mm" y2="16.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="26mm" y1="15mm" x2="26mm" y2="13.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="26mm" y1="15mm" x2="27.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="26mm" y1="15mm" x2="24.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+<g>
+<circle cx="49mm" cy="15mm" r="2.5mm" style="fill:white; stroke:black; stroke-width:1" />
+<line x1="49mm" y1="15mm" x2="49mm" y2="16.25mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="49mm" y1="15mm" x2="49mm" y2="13.75mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="49mm" y1="15mm" x2="50.25mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+<line x1="49mm" y1="15mm" x2="47.75mm" y2="15mm" style="stroke: rgb(255, 0, 0); stroke-width:0.5" />
+</g>
+
+</svg>
