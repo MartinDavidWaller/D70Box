@@ -40,5 +40,5 @@ interface and look for the Delay and Speed setting. Adjust the two control until
 legend. Then adjust the knobs so that the indicator is as close as possible to the legend value. The attained proximity will 
 depend on the potentiometer shaft type, smooth or knurled / serrated etc.
 
-The BFY71 transistor can be substituted with a 2N3019.
+The BFY51 transistor can be substituted with a 2N3019. See https://ham.stackexchange.com/questions/8990/can-anyone-please-suggest-a-substitute-for-the-bfy51-transistor/9031
 
