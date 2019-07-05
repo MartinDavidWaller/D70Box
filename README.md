@@ -33,6 +33,13 @@ though the number may not be exact.
 - Click the "Upload" button (Right pointing arrow - top left) to up load the software.
 - The device should now be programmed correctly.
 
+## PCB Revisions
+
+- V1.0 - April 5th, 2019 - Initial board design.
+- V1.1 - ?
+- V1.2 - May 24th, 2019 - Added BlueTooth support.
+- V1.3 - June 4th, 2019 - Fixed legend for T1, should read BFY51 and not BFY71.
+
 ## Notes
 
 The Delay and Speed setting may seem wrong relative to the knob position. The best way to check this is to use the BlueTooth
