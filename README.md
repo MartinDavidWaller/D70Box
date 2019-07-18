@@ -6,7 +6,7 @@ D70Box
 
 The circuit is based around the Arduino Pro Micro. This was purchased via ebay
 from the URL https://www.ebay.co.uk/itm/1-2-5-10PCS-Pro-Micro-ATmega32U4-16MHz-5V-Replace-Pro-Mini-ATmega328-For-Arduino/283052304952?ssPageName=STRK%3AMEBIDX%3AIT&var=583438190183&_trksid=p2057872.m2749.l2649 but
-it must be noted that other vendors supply this device too!
+it must be noted that other vendors supply this device too! Other vendors, especially if you are willing to wait, sell these much cheaper!
 
 The HC-05 Bluetooth module was also purchased via ebay from the URL https://www.ebay.co.uk/itm/HM-10-BLE-Bluetooth-4-0-CC2540-CC2541-Serial-Wireless-Module-Arduino-F/123600639430?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649 
 but it must be noted that other vendors supply this device too! The device is advertised as the HM-10 but it should be fine.
