@@ -1,7 +1,8 @@
 # D70Box
 
 The D70Box project is documented in Practical Wireless, October 2019. If you require further information,
-such as the associated circuit diagram, then please contact me at martin@the-wallers.net.
+such as the associated circuit diagram or a PCB, then please contact me at martin@the-wallers.net.
+
 
 ## Required Hardware
 
