@@ -3,7 +3,6 @@
 The D70Box project is documented in Practical Wireless, October 2019. If you require further information,
 such as the associated circuit diagram or a PCB, then please contact me at martin@the-wallers.net.
 
-
 ## Required Hardware
 
 The circuit is based around the Arduino Pro Micro. This was purchased via ebay
