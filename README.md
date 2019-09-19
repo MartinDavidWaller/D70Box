@@ -45,10 +45,10 @@ though the number may not be exact.
 
 ## PCB Revisions
 
-- V1.0 - April 5th, 2019 - Initial board design.
-- V1.1 - ?
-- V1.2 - May 24th, 2019 - Added BlueTooth support.
 - V1.3 - June 4th, 2019 - Fixed legend for T1, should read BFY51 and not BFY71.
+- V1.2 - May 24th, 2019 - Added BlueTooth support.
+- V1.1 - ?
+- V1.0 - April 5th, 2019 - Initial board design.
 
 ## Notes
 
