@@ -3,7 +3,7 @@
 The D70Box project is documented in Practical Wireless, October 2019. If you require further information,
 such as the associated circuit diagram or a PCB, then please contact me at martin@the-wallers.net.
 
-# Errata 
+# Erratum
 
 A small design fault has been noticed. On the 74LS00 quad NAND gate pins 1,2,3,4,5,6, and 7 are all 
 connected to ground. Pins 3 and 6 should have been left unconnected. This will not impact the overall 
@@ -11,6 +11,12 @@ functionality of the device but may result in slightly more current drain.
 
 The suggested fix, for those who have soldered the 74LS00 directly onto the board and for those using 
 a DIL socket, is to simply snip off pins 3 and 6.
+
++--
+
+A problem has been reported building the code with the Arduino 1.5.6-r2 IDE. This manifests with an
+error saying "SwitchStates does not name a type". If you are facing this issue then please contact
+me at martin@the-wallers.net and I'll provide the fix.
 
 ## Required Hardware
 
