@@ -12,6 +12,8 @@ functionality of the device but may result in slightly more current drain.
 The suggested fix, for those who have soldered the 74LS00 directly onto the board and for those using 
 a DIL socket, is to simply snip off pins 3 and 6.
 
+V1.4 of the PCB is now available that will fix the problem without the need to snip off pins.
+
 +--
 
 A problem has been reported building the code with the Arduino 1.5.6-r2 IDE. This manifests with an
