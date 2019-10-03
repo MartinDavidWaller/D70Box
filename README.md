@@ -22,6 +22,10 @@ me at martin@the-wallers.net and I'll provide the fix.
 
 ## Required Hardware
 
+Do shop around for these devices on ebay. I've noticed that the prices associated with the links below
+have risen. You should be aiming to pay around £4 - £5 for the Arduino Pro Micro, or less if you buy from
+China, and £2 - £3 for the Bluetooth module.
+
 The circuit is based around the Arduino Pro Micro. This was purchased via ebay
 from the URL https://www.ebay.co.uk/itm/1-2-5-10PCS-Pro-Micro-ATmega32U4-16MHz-5V-Replace-Pro-Mini-ATmega328-For-Arduino/283052304952?ssPageName=STRK%3AMEBIDX%3AIT&var=583438190183&_trksid=p2057872.m2749.l2649 but
 it must be noted that other vendors supply this device too! Other vendors, especially if you are willing to wait, sell these much cheaper!
