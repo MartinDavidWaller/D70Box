@@ -51,9 +51,14 @@ All default installation options were accepted.
 "Sketch uses 14522 bytes (50%) of program storage space. Maximum is 28672 bytes.
 Global variables use 741 bytes (28%) of dynamic memory, leaving 1819 bytes for local variables. Maximum is 2560 bytes."
 though the number may not be exact.
-- Make sure that the Arduino is plugged into your PC. Navigate to Tools > Port and make sure that the correct port is selected.
+- Make sure that the Arduino is plugged into your PC. Navigate to Tools > Port and make sure that the correct port is selected. See USB Issues below.
 - Click the "Upload" button (Right pointing arrow - top left) to up load the software.
 - The device should now be programmed correctly.
+
+## USB Issues
+
+Some users have reported issues connecting the Arduino to the PC USB 3.0 sockets.
+It seems that the Arduino Pro-Micro is happier connected to a USB 2.0 sockets for programming.
 
 ## PCB Revisions
 
