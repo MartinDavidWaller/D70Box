@@ -59,6 +59,7 @@ though the number may not be exact.
 
 Some users have reported issues connecting the Arduino to the PC USB 3.0 sockets.
 It seems that the Arduino Pro-Micro is happier connected to a USB 2.0 sockets for programming.
+More information can be found here: https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all
 
 ## PCB Revisions
 
