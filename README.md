@@ -33,6 +33,36 @@ it must be noted that other vendors supply this device too! Other vendors, espec
 The HC-05 Bluetooth module was also purchased via ebay from the URL https://www.ebay.co.uk/itm/HM-10-BLE-Bluetooth-4-0-CC2540-CC2541-Serial-Wireless-Module-Arduino-F/123600639430?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649 
 but it must be noted that other vendors supply this device too! The device is advertised as the HM-10 but it should be fine.
 
+Other components include:
+
+Resistors
+
+R1 150
+R5 2K
+R6 1K
+
+Variable Resistors
+
+R2 10K Lin
+R3 10K Lin
+R4 22K Lin (Switched)
+
+Semicondictors
+
+Q1 BFY51 or 2N3019
+U2 74LS00
+
+Miscellaneous
+
+U3 Switch SPDT centre off
+S1 3.5 mm switch mono socket
+S2 3.5 mm switch mono socket
+SP1 8 Ohm speaker
+Header pins as required
+
+DIL sockets for U2
+Header sockets for Arduino and Bluetooth adapter
+
 ## Installing the Build Software
 
 Start by installing the Arduino IDE. This can be found at:
