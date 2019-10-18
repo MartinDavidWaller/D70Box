@@ -37,28 +37,28 @@ Other components include:
 
 Resistors
 
-R1 150
-R5 2K
-R6 1K
+- R1 150
+- R5 2K
+- R6 1K
 
 Variable Resistors
 
-R2 10K Lin
-R3 10K Lin
-R4 22K Lin (Switched)
+- R2 10K Lin
+- R3 10K Lin
+- R4 22K Lin (Switched)
 
 Semicondictors
 
-Q1 BFY51 or 2N3019
-U2 74LS00
+- Q1 BFY51 or 2N3019
+- U2 74LS00
 
 Miscellaneous
 
-U3 Switch SPDT centre off
-S1 3.5 mm switch mono socket
-S2 3.5 mm switch mono socket
-SP1 8 Ohm speaker
-Header pins as required
+- U3 Switch SPDT centre off
+- S1 3.5 mm switch mono socket
+- S2 3.5 mm switch mono socket
+- SP1 8 Ohm speaker
+- Header pins as required
 
 DIL sockets for U2
 Header sockets for Arduino and Bluetooth adapter
