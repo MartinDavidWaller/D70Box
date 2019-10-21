@@ -112,7 +112,7 @@ The BFY51 transistor can be substituted with a 2N3019. See https://ham.stackexch
 
 David, G4DMP, has sent in a picture of his completed build.
 
-img src="https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/David-G4DMP.jpg?sanitize=true&raw=true" />
+<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/David-G4DMP.jpg?sanitize=true&raw=true" />
 
 ![]https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/David-G4DMP.jpg
 
