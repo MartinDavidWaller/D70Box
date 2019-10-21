@@ -45,7 +45,7 @@ Variable Resistors
 
 - R2 10K Lin
 - R3 10K Lin
-- R4 22K Lin (Switched) If you need one of these please contact me as a have access to a few spare ones.
+- R4 22K Lin (Switched) If you need one of these please contact me as I have access to a few spare ones.
 
 Semicondictors
 
@@ -112,5 +112,5 @@ The BFY51 transistor can be substituted with a 2N3019. See https://ham.stackexch
 
 David, G4DMP, has sent in a picture of his completed build.
 
-![]
+![]https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/David-G4DMP.jpg
 
