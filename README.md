@@ -45,7 +45,7 @@ Variable Resistors
 
 - R2 10K Lin
 - R3 10K Lin
-- R4 22K Lin (Switched)
+- R4 22K Lin (Switched) If you need one of these please contact me as a have access to a few spare ones.
 
 Semicondictors
 
@@ -107,4 +107,10 @@ legend. Then adjust the knobs so that the indicator is as close as possible to t
 depend on the potentiometer shaft type, smooth or knurled / serrated etc.
 
 The BFY51 transistor can be substituted with a 2N3019. See https://ham.stackexchange.com/questions/8990/can-anyone-please-suggest-a-substitute-for-the-bfy51-transistor/9031
+
+## User Builds
+
+David, G4DMP, has sent in a picture of his completed build.
+
+![]
 
