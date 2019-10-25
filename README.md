@@ -14,9 +14,9 @@ a DIL socket, is to simply snip off pins 3 and 6.
 
 V1.4 of the PCB is now available that will fix the problem without the need to snip off pins.
 
-Some of the Arduino Pro Micro devices seem to be identifying themselves are Arduino LillyPad USB devices. If
-the one you have claims to be one of these then under Tools > Boards select the LillyPad device and not Arduino 
-Leonardo.
+Some of the Arduino Pro Micro devices seem to be identifying themselves as "LilyPad Arduino USB" devices. If
+the one you have claims to be one of these then under Tools > Boards select the "LilyPad Arduino USB" device 
+and not "Arduino Leonardo".
 
 +--
 
