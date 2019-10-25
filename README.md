@@ -14,6 +14,10 @@ a DIL socket, is to simply snip off pins 3 and 6.
 
 V1.4 of the PCB is now available that will fix the problem without the need to snip off pins.
 
+Some of the Arduino Pro Micro devices seem to be identifying themselves are Arduino LillyPad USB devices. If
+the one you have claims to be one of these then under Tools > Boards select the LillyPad device and not Arduino 
+Leonardo.
+
 +--
 
 A problem has been reported building the code with the Arduino 1.5.6-r2 IDE. This manifests with an
@@ -76,7 +80,7 @@ All default installation options were accepted.
 
 - Download the associated ZIP file and uncompress it on your drive
 - Open the Arduino IDE and then open the D70Box.ino project file in the Source\D70Box folder
-- Navigate to Tools > Boards and select "Arduino Leonardo"
+- Navigate to Tools > Boards and select "Arduino Leonardo" (See Erratum above)
 - Click the "Verify" button (Round circle with a tick mark in it - top left), if successful you will see something like 
 "Sketch uses 14522 bytes (50%) of program storage space. Maximum is 28672 bytes.
 Global variables use 741 bytes (28%) of dynamic memory, leaving 1819 bytes for local variables. Maximum is 2560 bytes."
