@@ -112,6 +112,8 @@ depend on the potentiometer shaft type, smooth or knurled / serrated etc.
 
 The BFY51 transistor can be substituted with a 2N3019. See https://ham.stackexchange.com/questions/8990/can-anyone-please-suggest-a-substitute-for-the-bfy51-transistor/9031
 
+The Bluetooth card may prompt for a PIN, this is likely to be either 1234, or 0000.
+
 ## User Builds
 
 David, G4DMP, has sent in a picture of his completed build.
