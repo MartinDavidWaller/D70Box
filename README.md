@@ -18,6 +18,9 @@ Some of the Arduino Pro Micro devices seem to be identifying themselves as "Lily
 the one you have claims to be one of these then under Tools > Boards select the "LilyPad Arduino USB" device 
 and not "Arduino Leonardo".
 
+Some Arduino Pro Micro devices also seem to be "Leonardo ETH" devices. A symtom of having the wrong Leonardo 
+device selected seems to be odd data being displayed on the attached Bluetooth device.
+
 +--
 
 A problem has been reported building the code with the Arduino 1.5.6-r2 IDE. This manifests with an
@@ -119,5 +122,10 @@ The Bluetooth card may prompt for a PIN, this is likely to be either 1234, or 00
 David, G4DMP, has sent in a picture of his completed build.
 
 <img src="https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/David-G4DMP.jpg?sanitize=true&raw=true" />
+
+David, G4EDR, has also sent in a picture of his completed build.
+
+<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/David-G4EDR.jpg?sanitize=true&raw=true" />
+
 
 
