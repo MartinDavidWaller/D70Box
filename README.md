@@ -21,8 +21,6 @@ and not "Arduino Leonardo".
 Some Arduino Pro Micro devices also seem to be "Leonardo ETH" devices. A symtom of having the wrong Leonardo 
 device selected seems to be odd data being displayed on the attached Bluetooth device.
 
-+--
-
 A problem has been reported building the code with the Arduino 1.5.6-r2 IDE. This manifests with an
 error saying "SwitchStates does not name a type". If you are facing this issue then please contact
 me at martin@the-wallers.net and I'll provide the fix.
