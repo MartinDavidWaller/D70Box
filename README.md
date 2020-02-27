@@ -3,6 +3,10 @@
 The D70Box project is documented in Practical Wireless, October 2019. If you require further information,
 such as the associated circuit diagram or a PCB, then please contact me at martin@the-wallers.net.
 
+*The project seems to have been rather popular with over 50 PCBs being shipped and, I assume 50 units being built. 
+I think the reason for this is all down to the project keeping the look and feel of the original D70. It was an 
+iconic look and people seem to be very nostalgic about it.*
+
 # Erratum
 
 A small design fault has been noticed. On the 74LS00 quad NAND gate pins 1,2,3,4,5,6, and 7 are all 
@@ -50,7 +54,7 @@ Variable Resistors
 
 - R2 10K Lin
 - R3 10K Lin
-- R4 22K Lin (Switched) If you need one of these please contact me as I have access to a few spare ones.
+- R4 22K Lin (Switched)
 
 Semicondictors
 
