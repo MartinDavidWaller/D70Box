@@ -110,8 +110,10 @@ More information can be found here: https://learn.sparkfun.com/tutorials/pro-mic
 
 ## Knobs
 
-With the help of a reader we have managed to re-create a realistic looking D70 knob. The 3D design has been created using
-OpenSCAD - see https://www.openscad.org/
+I have managed to re-create a realistic looking D70 knob. 
+The knob is designed to provide a friction fit to a knurled 6mm diameter shaft - split or otherwise.
+The 3D design has been created using
+OpenSCAD - see https://www.openscad.org/ 
 
 <img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobTopView.png?sanitize=true&raw=true" />
 <img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobBottomView.png?sanitize=true&raw=true" />
