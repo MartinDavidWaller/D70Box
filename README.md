@@ -113,8 +113,8 @@ More information can be found here: https://learn.sparkfun.com/tutorials/pro-mic
 With the help of a reader we have managed to re-create a realistic looking D70 knob. The 3D design has been created using
 OpenSCAD - see https://www.openscad.org/
 
-<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3dPrints/Pictures/D70KnobTopView.png?sanitize=true&raw=true" />
-<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3dPrints/Pictures/D70KnobBottomView.png?sanitize=true&raw=true" />
+<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobTopView.png?sanitize=true&raw=true" />
+<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobBottomView.png?sanitize=true&raw=true" />
 
 The OpenSCAD source file and associated STL file can be found in the 3dPrints folder.
 
