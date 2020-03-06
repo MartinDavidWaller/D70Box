@@ -116,6 +116,7 @@ The 3D design has been created using
 OpenSCAD - see https://www.openscad.org/ 
 
 <img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobTopView.png?sanitize=true&raw=true" />
+<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobSideView.png?sanitize=true&raw=true" />
 <img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobBottomView.png?sanitize=true&raw=true" />
 
 The OpenSCAD source file and associated STL file can be found in the 3DPrints folder.
