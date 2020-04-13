@@ -142,5 +142,10 @@ David, G4EDR, has also sent in a picture of his completed build.
 
 <img src="https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/David-G4EDR.jpg?sanitize=true&raw=true" />
 
+Stephen, GI7ISX, has also sent in a couple of pictures of his completed build.
+
+<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/Stephen_GI7ISX_1.jpg?sanitize=true&raw=true" />
+<img src="https://github.com/MartinDavidWaller/D70Box/blob/master/UserBuildPictures/Stephen_GI7ISX_2.jpg?sanitize=true&raw=true" />
+
 
 
