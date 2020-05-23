@@ -29,6 +29,9 @@ A problem has been reported building the code with the Arduino 1.5.6-r2 IDE. Thi
 error saying "SwitchStates does not name a type". If you are facing this issue then please contact
 me at martin@the-wallers.net and I'll provide the fix.
 
+A problem has been reported where random 'Z' and random '9' characters were not being generated
+as expected. This has now been fixed.
+
 ## Required Hardware
 
 Do shop around for these devices on ebay. I've noticed that the prices associated with the links below

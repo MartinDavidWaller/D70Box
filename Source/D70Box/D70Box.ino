@@ -50,6 +50,10 @@
 //    Modified:   M.D.Waller    May 23rd, 2019
 //                a) Add support for Bluetooth.
 //
+//    Modified:   M.D.Waller    May 23rd, 2020
+//                a) Bug fix, it was not producing 'Z' or
+//                '9' in the random list!
+//
 // TODO
 //
 // -
@@ -694,12 +698,12 @@ void loop() {
     // Sort out the random character range
 
     int minCharacter = 0;
-    int maxCharacter = 35;
+    int maxCharacter = 36;
 
     switch(lettersMixedNumbers)
     {
       case LETTERS:
-        maxCharacter = 25;
+        maxCharacter = 26;
         break;
       case NUMBERS:
         minCharacter = 26;
