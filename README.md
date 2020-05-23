@@ -30,7 +30,7 @@ error saying "SwitchStates does not name a type". If you are facing this issue t
 me at martin@the-wallers.net and I'll provide the fix.
 
 A problem has been reported where random 'Z' and random '9' characters were not being generated
-as expected. This has now been fixed.
+as expected. This has now been fixed. Version number changed to V1.1.
 
 ## Required Hardware
 
