@@ -9,6 +9,13 @@ iconic look and people seem to be very nostalgic about it.*
 
 # Erratum
 
+Fonts! I originally thought that the label font was "microgramma d bold extended" but having listened to
+Kermode and Mayo's Film Review podcast recently I think it might be "eurostile bold extended"! References
+to this font include:
+
+- https://typesetinthefuture.com/
+- https://www.wired.co.uk/article/sci-fi-font-eurostile-bold-extended
+
 A small design fault has been noticed. On the 74LS00 quad NAND gate pins 1,2,3,4,5,6, and 7 are all 
 connected to ground. Pins 3 and 6 should have been left unconnected. This will not impact the overall 
 functionality of the device but may result in slightly more current drain.
